@@ -1,0 +1,19 @@
+{
+  "name": "paginated-response",
+  "version": "1.0.0",
+  "description": "Pagination utility for nodejs-express backend apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "pagination",
+    "paginated-response",
+    "express",
+    "react",
+    "utility"
+  ],
+  "author": "Siddhartha Sarkar <siddsarkar7@gmail.com> (https://siddsarkar.github.io/)",
+  "license": "ISC"
+}
