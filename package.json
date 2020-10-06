@@ -1,6 +1,6 @@
 {
   "name": "paginated-response",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Pagination utility for nodejs-express backend apps.",
   "main": "index.js",
   "homepage": "https://github.com/siddsarkar/paginated-response#readme",
