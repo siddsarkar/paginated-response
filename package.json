@@ -20,6 +20,5 @@
     "utility"
   ],
   "author": "Siddhartha Sarkar <siddsarkar7@gmail.com> (https://siddsarkar.github.io/)",
-  "license": "MIT",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "license": "MIT"
 }
